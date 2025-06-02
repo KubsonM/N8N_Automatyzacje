@@ -21,7 +21,9 @@ Całkowicie zautomatyzowany system powiadomień oszczędzający czas i eliminuj�
 
 Automatyczne powiadomienia o nowych mailach
 ![image](https://github.com/user-attachments/assets/d7dacd7b-e43a-4220-b16f-e2fab53a3ce1)
+![mailn8n](https://github.com/user-attachments/assets/66f4347d-92b8-442c-b4b2-1ecb6b34b2ce)
 
 
 Monitoring dostępności produktu online
 ![image](https://github.com/user-attachments/assets/176bc067-e16d-497d-8f09-0ffdd939b7cf)
+![stronan8n](https://github.com/user-attachments/assets/ae420bd6-f27f-4117-844a-819411cac72f)
