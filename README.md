@@ -2,13 +2,13 @@
 
 Projekt workflowy w N8N automatyzujące dwa kluczowe zadania:
   
-  Automatyczne powiadomienia o nowych mailach:
-    -  System sprawdza skrzynkę e-mail pod kątem nowych wiadomości (np. faktury za internet)
-    -  W przypadku wykrycia nowej wiadomości automatycznie wysyła powiadomienie na Telegram
+Automatyczne powiadomienia o nowych mailach:
+  -  System sprawdza skrzynkę e-mail pod kątem nowych wiadomości (np. faktury za internet)
+  -  W przypadku wykrycia nowej wiadomości automatycznie wysyła powiadomienie na Telegram
 
-  Monitoring dostępności produktu online:
-    -  Bot regularnie sprawdza wybrany sklep internetowy pod kątem dostępności określonego produktu lub rozmiaru
-    -  W przypadku pojawienia się dostępności automatycznie wysyła alert na Telegram
+Monitoring dostępności produktu online:
+  -  Bot regularnie sprawdza wybrany sklep internetowy pod kątem dostępności określonego produktu lub rozmiaru
+  -  W przypadku pojawienia się dostępności automatycznie wysyła alert na Telegram
 
 Technologie:
   - N8N (automatyzacja)
