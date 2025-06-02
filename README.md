@@ -11,9 +11,9 @@ Projekt workflowy w N8N automatyzujące dwa kluczowe zadania:
     -  W przypadku pojawienia się dostępności automatycznie wysyła alert na Telegram
 
 Technologie:
- - N8N (automatyzacja)
- - Telegram Bot (powiadomienia)
- - Web scraping (sprawdzanie dostępności produktów)
+  - N8N (automatyzacja)
+  - Telegram Bot (powiadomienia)
+  - Web scraping (sprawdzanie dostępności produktów)
 
 Efekt:
 Całkowicie zautomatyzowany system powiadomień oszczędzający czas i eliminujący ryzyko przegapienia ważnych informacji lub okazji zakupowych.
