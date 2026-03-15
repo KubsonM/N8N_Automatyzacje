@@ -34,4 +34,4 @@ Monitoring dostępności produktu online
 ![stronan8n](https://github.com/user-attachments/assets/ae420bd6-f27f-4117-844a-819411cac72f)
 
 Automatyczna aktualizacja budżetu domowego
-
+![stronan8n](https://github.com/user-attachments/assets/ae420bd6-f27f-4117-844a-819411cac72f)
