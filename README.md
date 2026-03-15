@@ -35,5 +35,6 @@ Monitoring dostępności produktu online
 
 
 Automatyczna aktualizacja budżetu domowego
+<img width="593" height="154" alt="Image" src="https://github.com/user-attachments/assets/832b9175-f249-43f5-a975-4283a8c862bb" />
 <img width="1535" height="677" alt="Image" src="https://github.com/user-attachments/assets/907e52a7-a3c8-41fc-a4e8-2c88ca0b7ccf" />
 
